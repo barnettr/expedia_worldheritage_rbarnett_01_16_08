@@ -1,0 +1,102 @@
+<worldheritage promo="UNESCO">
+  <row id="326" unique="370" trans="0" lat="30.33056000" long="35.44333000">
+    <criteria>(i)(iii)(iv)</criteria>
+    <inscribeDate>1985</inscribeDate>
+    <code>jo</code>
+    <region>Arab States</region>
+    <location>Ma’an Governorate</location>
+    <state>Jordan</state>
+    <site>Petra</site>
+    <description>Inhabited since prehistoric times, this Nabataean caravan-city, situated between the Red Sea and the Dead Sea, was an important crossroads between Arabia, Egypt and Syria-Phoenicia. Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. It is one of the world's most famous archaeological sites, where ancient Eastern traditions blend with Hellenistic architecture.</description>
+  </row>
+  <row id="307" unique="346" trans="0" lat="40.68944444" long="-74.04472222">
+        <criteria>(i)(vi)</criteria>
+        <inscribeDate>1984</inscribeDate>
+        <code>us</code>
+        <region>North America</region>
+        <location>New York, New York</location>
+        <state>United States of America</state>
+        <site>Statue of Liberty</site>
+        <description>Made in Paris by the French sculptor Bartholdi, in collaboration with Gustave Eiffel (who was responsible for the steel framework), this towering monument to liberty was a gift from France on the centenary of American independence in 1886. Standing at the entrance to New York Harbour, it has welcomed millions of immigrants to the United States ever since.</description>
+  </row>
+  <row id="274" unique="305" trans="0" lat="-13.11666667" long="-72.58333333">
+        <criteria>(i)(iii)(vii)(ix)</criteria>
+        <inscribeDate>1983</inscribeDate>
+        <code>pe</code>
+        <region>Latin America</region>
+        <location>Left bank of the Vilcanota river, between its tributaries the Kusichaca and Aobamba rivers, in the department of Cuzco, Urubamba Province, District of Macchu Picchu</location>
+        <state>Peru</state>
+        <site>Historic Sanctuary of Machu Picchu</site>
+        <description>Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna.</description>
+    </row>
+  <row id="616" unique="731" trans="0" lat="50.08972000" long="14.41944000">
+        <criteria>(ii)(iv)(vi)</criteria>
+        <inscribeDate>1992</inscribeDate>
+        <code>cz</code>
+        <region>Europe</region>
+        <location>Prague (Hlavní mesto Praha)</location>
+        <state>Czech Republic</state>
+        <site>Historic Centre of Prague</site>
+        <description>Built between the 11th and 18th centuries, the Old Town, the Lesser Town and the New Town speak of the great architectural and cultural influence enjoyed by this city since the Middle Ages. The many magnificent monuments, such as Hradcani Castle, St Vitus Cathedral, Charles Bridge and numerous churches and palaces, built mostly in the 14th century under the Holy Roman Emperor, Charles IV.</description>
+    </row>
+    <row id="980" unique="1144" trans="0" lat="55.79111111" long="49.09500000">
+        <criteria>(ii)(iii)(iv)</criteria>
+        <inscribeDate>2000</inscribeDate>
+        <code>ru</code>
+        <region>Europe</region>
+        <location>City of Kazan, Republic of Tatarstan</location>
+        <state>Russian Federation</state>
+        <site>Historic and Architectural Complex of the Kazan Kremlin</site>
+        <description>Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the Golden Horde and the Kazan Khanate. It was conquered by Ivan the Terrible in 1552 and became the Christian See of the Volga Land. The only surviving Tatar fortress in Russia and an important place of pilgrimage, the Kazan Kremlin consists of an outstanding group of historic buildings dating from the 16th to 19th centuries, integrating remains of earlier structures of the 10th to 16th centuries.</description>
+    </row>
+  <row id="1021" unique="1191" trans="0" lat="-18.75000000" long="21.73333333">
+        <criteria>(i)(iii)(vi)</criteria>
+        <inscribeDate>2001</inscribeDate>
+        <code>bw</code>
+        <region>Africa</region>
+        <location>The Ngamiland District, north-west Botswana</location>
+        <state>Botswana</state>
+        <site>Tsodilo</site>
+        <description>With one of the highest concentrations of rock art in the world, Tsodilo has been called the 'Louvre of the Desert'. Over 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert. The archaeological record of the area gives a chronological account of human activities and environmental changes over at least 100,000 years. Local communities in this hostile environment respect Tsodilo as a place of worship frequented by ancestral spirits.</description>
+    </row>
+    <row id="881" unique="1033" trans="0" lat="39.84555556" long="116.44472220">
+        <criteria>(i)(ii)(iii)</criteria>
+        <inscribeDate>1998</inscribeDate>
+        <code>cn</code>
+        <region>Asia</region>
+        <location>Tiantan Park, Beijing</location>
+        <state>China</state>
+        <site>Temple of Heaven: an Imperial Sacrificial Altar in Beijing</site>
+        <description>The Temple of Heaven, founded in the first half of the 15th century, is a dignified complex of fine cult buildings set in gardens and surrounded by historic pine woods. In its overall layout and that of its individual buildings, it symbolizes the relationship between earth and heaven – the human world and God's world – which stands at the heart of Chinese cosmogony, and also the special role played by the emperors within that relationship.</description>
+    </row>
+  <row id="814" unique="962" trans="0" lat="15.26666667" long="-61.28333333">
+        <criteria>(viii)(x)</criteria>
+        <inscribeDate>1997</inscribeDate>
+        <code>dm</code>
+        <region>Caribbean</region>
+        <location>South central part of the island</location>
+        <state>Dominica</state>
+        <site>Morne Trois Pitons National Park</site>
+        <description>Luxuriant natural tropical forest blends with scenic volcanic features of great scientific interest in this national park centred on the 1,342-m-high volcano known as Morne Trois Pitons. With its precipitous slopes and deeply incised valleys, 50 fumaroles, hot springs, three freshwater lakes, a &amp;#39;boiling lake&amp;#39; and five volcanoes, located on the park&amp;#39;s nearly 7,000 ha, together with the richest biodiversity in the Lesser Antilles, Morne Trois Pitons National Park presents a rare combination of natural features of World Heritage value.</description>
+    </row>
+    <row id="590" unique="698" trans="0" lat="14.33000000" long="102.05000000">
+        <criteria>(x)</criteria>
+        <inscribeDate>2005</inscribeDate>
+        <code>th</code>
+        <region>Asia</region>
+        <location>Provinces of Saraburi, Nakhon Nayok, Nakhon Rachisima, Prachinburi, Srakaew and Burirum</location>
+        <state>Thailand</state>
+        <site>Dong Phayayen-Khao Yai Forest Complex</site>
+        <description>The Dong Phayayen-Khao Yai Forest Complex spans 230 km between Ta Phraya National Park on the Cambodian border in the east, and Khao Yai National Park in the west. The site is home to more than 800 species of fauna, including 112 mammal species (among them two species of gibbon), 392 bird species and 200 reptile and amphibian species. It is internationally important for the conservation of globally threatened and endangered mammal, bird and reptile species, among them 19 that are vulnerable, four that are endangered, and one that is critically endangered. The area contains substantial and important tropical forest ecosystems, which can provide a viable habitat for the long-term survival of these species.</description>
+    </row>
+  <row id="166" unique="1457" trans="0" lat="-33.85666667" long="151.21527778">
+        <criteria>(i)</criteria>
+        <inscribeDate>2007</inscribeDate>
+        <code>au</code>
+        <region>Pacific</region>
+        <location>New South Wales</location>
+        <state>Australia</state>
+        <site>Sydney Opera House</site>
+        <description>Inaugurated in 1973, the Sydney Opera House is listed as a great architectural work of the 20th century that brings together multiple strands of creativity and innovation, both in architectural form and structural design. A great urban sculpture set in a remarkable waterscape, at the tip a peninsula projecting into Sydney Harbour, the building has had an enduring influence on architecture. The Opera House comprises three groups of interlocking vaulted ‘shells&amp;#39; which roof two main performances halls and a restaurant. These shell-structure are set upon a vast platform and are surrounded by terrace areas that function as pedestrian concourses. In 1957, when the project of the Sydney opera was attributed by an international jury to the then almost unknown Danish architect Jørn Utzon, it marked a radically new and collaborative approach to construction. In listing the building, the Sydney Opera House is recognized as a great artistic monument accessible to society at large.</description>
+    </row>                   
+</worldheritage>
